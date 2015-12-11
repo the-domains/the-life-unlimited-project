@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Life Unlimited Project]]></title>
+        <description><![CDATA[The Life Unlimited Project]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Dec 2015 04:17:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We are Matthew Kiepert and Michael Dixon]]></title>
+            <description><![CDATA[<article><h1>We are Matthew Kiepert and Michael Dixon</h1><h2>THE LIFE UNLIMITED PROJECT</h2><p>We help smart, driven, and motivated individuals to become more successful through learning and personal growth in life, health, and business.  We choose to get the best out of life and live it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/034f7f798661923602acf74df9174e068fcf7485.jpg"></article>]]></description>
+            <link>undefinedwe-are-matthew-kiepert-and-michael-dixon/index.html</link>
+            <guid isPermaLink="false">b75e1b09-89be-4b42-b89d-ecef1882bd0e</guid>
+            <pubDate>Fri, 11 Dec 2015 04:17:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
