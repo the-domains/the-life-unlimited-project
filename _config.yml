@@ -1,7 +1,7 @@
 name: The Life Unlimited Project
 favicon: null
-layout_spectrum: 0.33376585808582604
-typography_spectrum: 0.7262632600031793
+layout_spectrum: 0.46744
+typography_spectrum: 0.51208
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.9931427608244121
-  lightness: 0.7317582953255624
-  saturation: 0.5535774331074208
-  rhythmicContrast: 0.6545836641453207
+    - '#d8d9d3'
+    - '#a69f8f'
+    - '#5e5f5d'
+    - '#7c827b'
+    - '#332f2f'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
