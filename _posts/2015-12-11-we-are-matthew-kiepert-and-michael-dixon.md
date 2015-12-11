@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-11T04:17:47.492Z'
-dateModified: '2015-12-11T04:17:34.696Z'
+datePublished: '2015-12-11T04:40:45.790Z'
+dateModified: '2015-12-11T04:40:43.508Z'
 title: We are Matthew Kiepert and Michael Dixon
 author: []
+sourcePath: _posts/2015-12-11-we-are-matthew-kiepert-and-michael-dixon.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-11-we-are-matthew-kiepert-and-michael-dixon.md
-published: true
-url: we-are-matthew-kiepert-and-michael-dixon/index.html
-_type: Article
+_type: Blurb
 
 ---
 # We are Matthew Kiepert and Michael Dixon
