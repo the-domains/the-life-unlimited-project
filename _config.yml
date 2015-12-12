@@ -1,6 +1,6 @@
 name: The Life Unlimited Project
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.50452
 typography_spectrum: 0.52859
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#383127'
     - '#938169'
     - '#5c6971'
-  brandStrength: 0.5
-  lightness: 0.0625
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 1
+  lightness: 0.1875
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
